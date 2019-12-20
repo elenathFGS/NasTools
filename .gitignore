@@ -1,0 +1,3 @@
+# ignore the IDE env
+__pycache__
+.idea
